@@ -17,11 +17,13 @@ Upon completing [this tutorial](https://dgilleland.github.io/CPSC-1520/tutorials
 
 | Started<br/>MM/DD | Completed<br/>MM/DD | Estimated Time<br/>Minutes |
 | :---------------: | :-----------------: | :------------------------: |
-|                   |                     |                            |
+|       04/07            |       04/10              | 20 Minutes                           |
 
 ----
 
 ## Overall Impression
+
+The tutorial provided a solid introduction to JavaScript. It covered the fundamentals such as variables, data types, functions, conditionals, and loops in a simple and approachable way. The examples were helpful, and the explanations were easy to follow, especially for someone with little or no prior coding experience.
 
 
 
@@ -29,16 +31,27 @@ Upon completing [this tutorial](https://dgilleland.github.io/CPSC-1520/tutorials
 
 ## Errors/Typos
 
+I didn’t encounter any major typos or broken code, but a couple of notes:
 
+The prompt() function may not work as expected in all browsers due to security settings.
+
+A minor comment in the loop example said it would run 10 times, but the loop only ran 9 iterations
 
 ----
 
 ## Improvements
 
+Adding small exercises or quizzes after each section would help reinforce the material.
 
+A short summary or checklist at the end to recap all concepts covered would be helpful.
+
+A few interactive challenges or links to practice platforms would be a great bonus.
 
 ----
 
 ## Rating
+8 / 10
+
+It’s a strong introduction for beginners. With a few interactive additions or practice tasks, it could become even more engaging.
 
 
