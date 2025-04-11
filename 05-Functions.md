@@ -17,28 +17,33 @@ Upon completing [this tutorial](https://dgilleland.github.io/CPSC-1520/tutorials
 
 | Started<br/>MM/DD | Completed<br/>MM/DD | Estimated Time<br/>Minutes |
 | :---------------: | :-----------------: | :------------------------: |
-|                   |                     |                            |
+|      04/07             |           04/10          |     30 Minutes                       |
 
 ----
 
 ## Overall Impression
 
+The tutorial did a great job breaking down the concept of functions. It explained function declarations, calling functions, and passing arguments in a straightforward way. The examples made it clear how functions can help organize code and avoid repetition, which is an essential habit in programming.
 
 
 ----
 
 ## Errors/Typos
 
-
+None found
 
 ----
 
 ## Improvements
 
-
+Could briefly introduce arrow functions for modern JavaScript, even if it's just a teaser for later.
 
 ----
 
 ## Rating
+
+8 / 10
+
+A very clear and effective introduction to functions. Great for beginners, and with just a touch more depth (like return vs. log, or a mini practice task), it could really shine.
 
 
